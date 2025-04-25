@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://se-buw.github.io/gse/
+baseURL: https://se-buw.github.io/
 title: Generative Software Engineering
 languageCode: en
 theme: hugo-book
