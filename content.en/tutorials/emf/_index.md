@@ -28,6 +28,8 @@ See the [YouTube playlist](https://www.youtube.com/playlist?list=PLGyeoukah9NbkE
 
 Selection of materials and updates
 
+-   26.04.2025 by Soaibuzzaman
+    -  Migrated tutorial to web format and updated to Eclipse 2025-03 Modeling Tools
 -   04.05.2023 by Jan O. Ringert
     -  Added minor adjustments for Eclipse 2023-03 Modeling Tools
 -   29.04.2022 by Jan O. Ringert
