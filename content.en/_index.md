@@ -9,3 +9,4 @@ You can find the course materials, including tutorials, exercises, and other res
 Currently this site offers the following content:
 
 - [Eclipse Modeling Framework (EMF) - Tutorial](tutorials/emf/)
+- [Reactive Synthesis with Spectra - Tutorial](tutorials/spectra/)
