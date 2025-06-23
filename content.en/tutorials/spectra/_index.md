@@ -1,5 +1,6 @@
 ---
 title: "Spectra - Tutorial"
+bookCollapseSection: true
 weight: 10
 ---
 
